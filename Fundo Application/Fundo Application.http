@@ -1,0 +1,6 @@
+@Fundo_Application_HostAddress = http://localhost:5227
+
+GET {{Fundo_Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
